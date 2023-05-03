@@ -2,7 +2,7 @@
 
 This is a React app that displays the current weather for a given location using the OpenWeatherMap API.
 
-## ScreenShots
+## Screenshots
 
 ### Desktop View
 ![image](https://user-images.githubusercontent.com/104871180/235858494-58a9d546-fd7f-47d3-bf8f-c188972b287b.png)
